@@ -16,8 +16,6 @@
  * You should have received a copy of the GNU General Public License
  * along with GEDmill.  If not, see <http://www.gnu.org/licenses/>.
  *
- * $Id: print.c 26850 2008-11-26 07:34:57Z jake $
- *
  * History:
  * 10Dec08 AlexC          Migrated from GEDmill 1.10
  *
